@@ -29,7 +29,7 @@ A smooth and dynamic animated landing page built using 💡 GSAP (GreenSock Anim
 
 ---
 
-## 🌐 Live Preview / Demo: point_right: [Click View Live Preview]() 
+## 🌐 Live Preview / Demo: point_right: [Click View Live Preview](https://nishikant4246.github.io/Animated-Project-1/) 
 
 ---
 
